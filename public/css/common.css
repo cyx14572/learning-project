@@ -1,0 +1,8 @@
+
+*{ margin:0; padding:0;}
+ul{ list-style: none;}
+#admin{ border:1px red solid; border-radius: 20px; padding:30px; }
+
+#list li{ width:300px; float:left; border:1px red solid; margin:20px;}
+#list li img{ width:100%; display: block;}
+#list li p { text-align: center; line-height: 30px;}
